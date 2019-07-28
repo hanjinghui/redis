@@ -12,7 +12,6 @@ public class RedisDemoTest {
 
         //String类型
         redisTemplate.opsForValue().set("xingming","hanjinghui");
-        System.out.println("xiugai ");
     }
 
 }

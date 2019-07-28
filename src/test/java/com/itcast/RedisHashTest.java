@@ -59,7 +59,10 @@ public class RedisHashTest {
         } catch (Exception e) {
             e.printStackTrace();
             System.out.println("删除失败");
+<<<<<<< HEAD
             System.out.println("我已经修改");
+=======
+>>>>>>> 5485af7787060ca0fae8030b13f9e6ae72b50195
         }
     }
 }
